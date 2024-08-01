@@ -14,8 +14,6 @@
 
 Just tryna code and stuff
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MuneebH&hide_border=true&theme=redical)
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
