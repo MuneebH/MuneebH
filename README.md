@@ -1,4 +1,4 @@
-# Hi there, I'm Muneeb Hashmi
+# Hi there, I'm Muneeb
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/smuneebhashmi/">
